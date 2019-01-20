@@ -11,7 +11,7 @@ We've got a a `vue` + `vuex` + `vue-router` example and a very basic `react` + `
 You can install the app locally like you'd install any other Laravel app.
 
 ```bash
-git clone git@github.com:spatie/laravel-server-side-rendering-examples.git
+git clone https://github.com/sutin1234/Laravel5-vue2-SSR.git
 composer install
 yarn
 yarn production
