@@ -37,6 +37,9 @@ export default {
 
             return sortBy(packages, 'name');
         },
+        created(){
+            console.log('packages created'); 
+        }
     },
 };
 </script>
